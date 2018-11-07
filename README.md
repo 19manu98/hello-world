@@ -1,2 +1,2 @@
 # hello-world
-GitHub Guide
+GitHub Guide and starting new projects
